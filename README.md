@@ -1,4 +1,4 @@
-# Pruevas.github.io
+# Izazaga Martínez Fernando
 
 Ejecute el codigo en GitHub: https://zaza26.github.io/Pruevas.github.io/
 
